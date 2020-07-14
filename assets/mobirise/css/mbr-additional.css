@@ -727,3 +727,7 @@ section.lazy-placeholder:after {
     padding: 1rem !important;
   }
 }
+.cid-s4aimPeOoJ .mbr-text,
+.cid-s4aimPeOoJ .mbr-section-btn {
+  text-align: left;
+}
