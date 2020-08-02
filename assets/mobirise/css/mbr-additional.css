@@ -757,3 +757,16 @@ section.lazy-placeholder:after {
 .cid-s6u8Q52hfP .section-text DIV {
   text-align: left;
 }
+.cid-s6ulmDaUIw {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-s6ulmDaUIw .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s6ulmDaUIw .video-block {
+    width: 100% !important;
+  }
+}
