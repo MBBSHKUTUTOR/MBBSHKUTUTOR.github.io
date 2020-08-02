@@ -134,6 +134,9 @@
               ".inner-container": {
                 "width": "100% !important"
               }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
             }
           },
           "_name": "content9",
